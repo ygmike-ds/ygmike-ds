@@ -20,12 +20,6 @@ Here are some ideas to get you started:
   - Data Science & ML: Regression, Classification, EDA, Hypothesis Testing, Predictive Modeling, Visualization
   - Biotech Expertise: Molecular biology, DNA/RNA purification, CRISPR/Cas9, assay development, experimental design
     
-🌐 Let’s Connect
-  - 📂 Portfolio: ygmike-ds.github.io/my-portfolio/
-  - 💼 LinkedIn: https://www.linkedin.com/in/yonas-gebremicale/
-  - 📄 Resume: [ygmikeDS-25.pdf](https://github.com/user-attachments/files/23238689/ygmikeDS-25.pdf)
-  - 📧 Email: yonasgmik@gmail.com
-    
 🧠 Recent Projects
   - Sure Tomorrow Insurance ML: Built models for customer segmentation and benefit prediction using logistic regression and data protection techniques.
   - Rusty Bargain Car Pricing: Developed and optimized a linear regression model to predict used car prices efficiently.
