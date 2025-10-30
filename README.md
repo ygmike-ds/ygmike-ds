@@ -1,7 +1,7 @@
 ## 🧬 Hi, I'm Yonas Gebremicale 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:yonasgmik@gmail.com)](mailto:yonasgmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yonas-gebremicale/)](https://www.linkedin.com/in/yonas-gebremicale/)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&link=https://github.com/ygmike-ds)
 
 ## 🎯 About Me
 I’m a biologist turned data scientist passionate about transforming complex biological and business data into actionable insights. With 10+ years of hands-on experience in molecular biology, vector research, and data analytics, I specialize in applying machine learning, statistical modeling, and predictive analysis to solve real-world problems in both biotech and business intelligence.
